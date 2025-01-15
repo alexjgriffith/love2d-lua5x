@@ -1,0 +1,6 @@
+[submodule "love"]
+	path = love
+	url = git@github.com:alexjgriffith/love.git
+[submodule "love-appimage-source"]
+	path = love-appimage-source
+	url = git@github.com:alexjgriffith/love-appimage-source.git
