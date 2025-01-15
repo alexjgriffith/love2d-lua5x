@@ -4,3 +4,6 @@
 [submodule "love-appimage-source"]
 	path = love-appimage-source
 	url = git@github.com:alexjgriffith/love-appimage-source.git
+[submodule "megasource"]
+	path = megasource
+	url = git@github.com:alexjgriffith/megasource.git
